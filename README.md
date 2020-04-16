@@ -2,3 +2,9 @@
 
 ### To Do
 - [ ] Custom Hooks
+- [ ] `useDocumentTitle`
+- [ ] `useMousePosition`
+- [ ] `useInput`
+- [ ] `useLocationData`
+- [ ] `useRequest`
+- [ ] `useKeyPress`
