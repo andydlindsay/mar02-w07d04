@@ -7,6 +7,7 @@ const Request = () => {
   return (
     <div>
       { loading && <p>Please wait...</p> }
+
       { data.results && data.results.map(datum => (
         <h4 key={datum.index}>{ datum.name }</h4>
       )) }
